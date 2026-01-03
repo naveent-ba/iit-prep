@@ -5,10 +5,8 @@ nav_order: 1
 ---
 
 # JEE Preparation: The Invariance Framework
-{: .fs-9 }
 
 A conceptual guide that teaches you to **see** the answer, not memorize it.
-{: .fs-6 .fw-300 }
 
 ---
 
@@ -100,7 +98,6 @@ Each guide follows the same structure:
 ## The Three Subjects
 
 ### [Mathematics](mathematics/00_Big_Picture_FULL_v2.md)
-{: .text-purple-300 }
 
 **What Stays Constant:** Structure and relationships under transformation
 
@@ -119,7 +116,6 @@ Each guide follows the same structure:
 ---
 
 ### [Physics](physics/00_Big_Picture_FULL.md)
-{: .text-blue-300 }
 
 **What Stays Constant:** Energy, Momentum, Angular Momentum, Charge
 
@@ -135,7 +131,6 @@ Each guide follows the same structure:
 ---
 
 ### [Chemistry](chemistry/00_Big_Picture_FULL.md)
-{: .text-green-300 }
 
 **What Stays Constant:** Stability of intermediates, Coulomb's Law ($q/r^2$), Mass & Charge
 

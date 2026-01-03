@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # Mathematics
-{: .text-purple-300 }
 
 **What Stays Constant:** Structure and relationships under transformation
 

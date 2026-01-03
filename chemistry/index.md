@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # Chemistry
-{: .text-green-300 }
 
 **What Stays Constant:** Stability of intermediates, Coulomb's Law ($q/r^2$), Mass & Charge
 

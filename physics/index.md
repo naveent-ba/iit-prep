@@ -6,7 +6,6 @@ has_children: true
 ---
 
 # Physics
-{: .text-blue-300 }
 
 **What Stays Constant:** Energy, Momentum, Angular Momentum, Charge
 
